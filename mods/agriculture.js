@@ -3,7 +3,7 @@ G.AddData({
 	author:'Owen "Ohead" Parker',
 	desc:'Adds various farming units.',
 	engineVersion:1,
-    sheets:{'agriculture':'https://therealohead.github.io/neverending-legacy-mods/mods/agriculture/img/icons.png'},
+    sheets:{'agriculture':'https://owen-c-parker.github.io/neverending-legacy-mods/mods/agriculture/img/icons.png'},
 	func:function()
 	{   
 
